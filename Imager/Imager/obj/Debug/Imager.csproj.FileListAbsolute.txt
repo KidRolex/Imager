@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2012\Projects\Imager\Imager\bin\Debug\Imager.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\Imager\Imager\obj\Debug\Imager.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\Imager\Imager\obj\Debug\Imager.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\Imager\Imager\obj\Debug\Imager.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\Imager\Imager\obj\Debug\Imager.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\Imager\Imager\bin\Debug\Imager.exe
+c:\users\hp\documents\visual studio 2012\Projects\Imager\Imager\bin\Debug\Imager.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Imager\Imager\obj\Debug\Imager.exe
+c:\users\hp\documents\visual studio 2012\Projects\Imager\Imager\obj\Debug\Imager.pdb
